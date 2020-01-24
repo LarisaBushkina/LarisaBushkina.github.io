@@ -6,3 +6,6 @@ body {
 ol, ul {
 list-style:none;
 }
+html {
+width:100%;
+}
