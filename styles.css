@@ -2,10 +2,11 @@ body {
   margin-left:auto;
   margiin-right:auto;
   text-align:center;
+  width:800px;
 }
 ol, ul {
 list-style:none;
 }
-html {
+h2 {
 width:100%;
 }
